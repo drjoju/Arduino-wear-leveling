@@ -1,0 +1,35 @@
+#######################################
+# Syntax Coloring Map For Wear Leveling
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+WL_VERSION	KEYWORD1
+WL_Header	KEYWORD1
+WL_Status	KEYWORD1
+WL_Size	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+wl KEYWORD2
+exists KEYWORD2
+create KEYWORD2
+open KEYWORD2
+readRec KEYWORD2
+writeRec KEYWORD2
+memSize KEYWORD2
+count KEYWORD2
+clear KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+
